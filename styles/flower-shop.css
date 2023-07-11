@@ -1,0 +1,8 @@
+body{
+
+}
+.header-container{
+    background:rgba(229, 84, 115, 0.1);
+    display: flex;
+    justify-content: space-between;
+}
